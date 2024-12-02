@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.virtualenv/
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode specific files
+.vscode/
+*.code-workspace
+
+# macOS specific files
+.DS_Store
+
+# Logs and debugging files
+*.log
+*.out
+*.err
+
+# Input files
+input/*.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Environment variable files
+.env
+.env.*
+
+# Compiled Python files
+*.pyo
+
+# Zip files or archives
+*.zip
+*.tar
+*.gz
+*.tgz
+*.bz2
