@@ -41,7 +41,7 @@ advent-of-code-2024/
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advent-of-code-2024.git
+   git clone https://github.com/JeromeDesseaux/advent-of-code-2024.git
    cd advent-of-code-2024
    ```
 
@@ -62,7 +62,7 @@ advent-of-code-2024/
    ```
 
 4. Test with input data:
-   Place the input file (e.g., `day01_input.txt`) in the `input/` directory and adjust the script to read the file.
+   Place the input file (e.g., `input.txt`) in the `input.txt` file. The script should read the file. If not, adjust the code.
 
 ---
 
