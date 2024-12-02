@@ -20,7 +20,7 @@ def count_safe_reports(reports):
     return safe_count
 
 # Lire les rapports à partir du fichier d'entrée
-file_path = 'day02/input.txt'  # Update the path to the correct location
+file_path = 'day02/input.txt'
 reports = read_input_file(file_path)
 
 # Compter le nombre de rapports sûrs
